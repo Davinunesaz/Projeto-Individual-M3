@@ -1,0 +1,38 @@
+{
+  "notas": [
+    {
+      "id": 1,
+      "titulo": "Estudar JS",
+      "status": true
+    },
+    {
+      "id": 1,
+      "titulo": "Estudar JS",
+      "status": true
+    },
+    {
+      "id": 1,
+      "titulo": "Estudar JS",
+      "status": true
+    },
+    {
+      "id": 1,
+      "titulo": "Estudar JS",
+      "status": true
+    }
+  ],
+  "dfns": [
+    {
+      "id": 1,
+      "titulo": "Estudar JS",
+      "status": true
+    }
+  ],
+  "sigjif": [
+    {
+      "id": 1,
+      "titulo": "Estudar JS",
+      "status": true
+    }
+  ]
+}
